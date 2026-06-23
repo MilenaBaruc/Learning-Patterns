@@ -59,6 +59,7 @@ Learning-Patterns/
 │
 └── roblox-environment/      # Ambiente Imersivo 3D
     ├── src/                 # Scripts desacoplados em Luau (.luau)
+    │   ├── BoxSenha.luau
     │   ├── DestinoDuvidaGRASP.luau
     │   ├── DestinoDuvidaLobby.luau
     │   ├── DestinoGRASPDuvida.luau
