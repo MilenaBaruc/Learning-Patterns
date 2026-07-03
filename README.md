@@ -1,6 +1,6 @@
 # 🎓 Laboratório Imersivo 3D & Módulo de Avaliação GRASP
 
-> **Trabalho de Conclusão de Curso (TCC)** > *Faculdade de Ciências e Tecnologias em Engenharia – Campus Gama (FCTE)* > **Universidade de Brasília (UnB)** > **Data da Defesa:** 06/07/2026
+> **Trabalho de Conclusão de Curso (TCC)** > *Faculdade de Ciências e Tecnologias em Engenharia – Campus Gama (FCTE)* > **Universidade de Brasília (UnB)** > **Data da Defesa:** 10/07/2026
 
 ---
 
@@ -17,7 +17,7 @@ A solução foi desenvolvida de forma totalmente desacoplada, utilizando tecnolo
 
 | Módulo Imersivo 3D | Módulo Web (Quiz & Analytics) | Infraestrutura & DevOps |
 | :--- | :--- | :--- |
-| • **Roblox Studio**<br>• **Luau** (Scripting)<br>• Arquitetura Orientada a Eventos | • **React** (SPA)<br>• **Vite** (Build Tool)<br>• **Recharts** (Dashboards) | • **Vercel** (Deploy & Hosting)<br>• **GitHub** (Versionamento)<br>• **Vercel Analytics** |
+| • **Roblox Studio**<br>• **Luau** (Scripting)<br> | • **React** (SPA)<br>• **Vite** (Build Tool)<br> | • **Vercel** (Deploy & Hosting)<br>• **GitHub** (Versionamento)<br>|
 
 ---
 
